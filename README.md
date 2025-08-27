@@ -1,1 +1,2 @@
-Rock, paper, scissors game for The Odin Project. (works in console)
+# A basic rock, paper and scissors game. 
+## [Live Demo](https://berkay-eren.github.io/rock-paper-scissors/)
